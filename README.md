@@ -10,8 +10,7 @@
 
 # Descrição do Projeto
 Recriação da página inicial do Instagram.
-![Página inicial](https://github.com/lariandradee/Recriando-a-pagina-inicial-do-Instagram/assets/145397308/04b16b3c-6392-4b07-aeab-ee1a64d824c6)
-
+![Página Inicial](https://github.com/lariandradee/Recriando-a-pagina-inicial-do-Instagram/assets/145397308/c768e0c4-52d2-4cd7-a230-6e72e82e2e41)
 
 # Tecnologias Utilizadas
 ![Badge CSS](https://img.shields.io/badge/CSS-blue)
